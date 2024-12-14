@@ -1,0 +1,11 @@
+{
+    "project_name": "Game Name",
+    "project_path": "C:\\Users\\psmmicha0040\\Documents\\Project\\Prototypes\\GameEngine",
+    "resource_path": "./resources/",
+    "executable": ".",
+    "main_scene": "G-FLXW102046",
+    "icon": "./icon.png",
+    "splash_screen": "./splash.png",
+    "platform": "WIN32 | MAC | LINUX",
+    "": ""
+}

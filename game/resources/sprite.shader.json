@@ -1,0 +1,5 @@
+{
+    "id": "S-PGNC101041",
+    "name": "Default-Shader",
+    "file_path": "./shaders/sprite.hlsl"
+}

@@ -1,0 +1,108 @@
+{
+    "scene_id": "G-FLXW102046",
+    "scene_name": "level1",
+    "active_camera": "C100",
+    "root": "E100",
+    "nodes": [
+        {
+            "id": "E100",
+            "parent": null
+        },
+        {
+            "id": "C100",
+            "parent": "E100"
+        },
+        {
+            "id": "S100",
+            "parent": "E100"
+        }
+    ],
+    "node_details": [
+        {
+            "id": "E100",
+            "name": "level1-root",
+            "tag": null,
+            "type": 1,
+            "zindex": 0,
+            "transform": {
+                "pos": [
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0
+                ],
+                "rot": 0.0
+            },
+            "state": []
+        },
+        {
+            "id": "C100",
+            "name": "default-camera",
+            "tag": "MyCamera",
+            "type": 3,
+            "zindex": 0,
+            "transform": {
+                "pos": [
+                    330.0,
+                    -96.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0
+                ],
+                "rot": 0.0
+            },
+            "up": [
+                0.0,
+                1.0,
+                0.0,
+                0.0
+            ],
+            "state": [
+                {
+                    "type": 2,
+                    "name": "velocity",
+                    "value": 2.0
+                },
+                {
+                    "type": 0,
+                    "name": "count",
+                    "value": 613
+                }
+            ]
+        },
+        {
+            "id": "S100",
+            "name": "parent-sprite",
+            "tag": "MySprite",
+            "type": 2,
+            "zindex": 0,
+            "transform": {
+                "pos": [
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    0.30000001192092896,
+                    0.30000001192092896
+                ],
+                "rot": 0.0
+            },
+            "material": "M-ABDH100538",
+            "state": [
+                {
+                    "type": 2,
+                    "name": "velocity",
+                    "value": 4.0
+                },
+                {
+                    "type": 0,
+                    "name": "count",
+                    "value": 1
+                }
+            ]
+        }
+    ]
+}

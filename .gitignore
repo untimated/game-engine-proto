@@ -1,0 +1,12 @@
+bin  
+build/*
+assets/*
+scripts/build/*
+.vs
+*.pdb
+*.dll
+*.exe
+*.obj
+*.ilk
+
+

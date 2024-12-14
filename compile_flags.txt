@@ -1,0 +1,10 @@
+-xc++
+-std=c++17
+-fms-compatibility
+-fms-compatibility-version=19.38.33130
+-I
+./include/
+-I
+./include/utils/freetype/
+-I
+./src/

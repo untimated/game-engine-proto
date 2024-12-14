@@ -1,0 +1,10 @@
+{
+    "id": "M-FLXW102046",
+    "name": "Default-Material",
+    "main_texture": "T-ABDH100538",
+    "shader": "S-PGNC101041",
+    "shader_parameter": {
+        "brightness": 1.0,
+        "count": 5
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": "M-KVSM101393",
+    "name": "Plain-Material",
+    "main_texture": "T-ABDH100538",
+    "shader": "S-UQIR104058",
+    "shader_parameter": {
+        "brightness": 0.5,
+        "color": [
+            1.0,
+            0.5,
+            0.0,
+            1.0
+        ]
+    }
+}
